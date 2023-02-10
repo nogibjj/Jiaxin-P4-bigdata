@@ -48,3 +48,5 @@ C. type: "/multiply/a/b" that returns a result after multiplying a and b
 
 D. type: "/divide/a/b" that returns a result after dividing a and b
 <img width="743" alt="Screen Shot 2023-02-09 at 10 34 42 PM" src="https://user-images.githubusercontent.com/112274822/217998659-05d01c61-af64-4cd7-946e-4ba21f593c6b.png">
+
+**Reference**: https://github.com/noahgift/rust-mlops-template
