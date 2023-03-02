@@ -1,4 +1,4 @@
-# Jiaxin-week5-mini-demo
+# Project 3: Interact with Big Data in Rust
 
 ## Goals
 Build a functional web microservice or CLI in data engineering or machine learning engineering that uses a large data platform, which include Apache Spark, Google BigQuery, Microsoft Azure HDInsight, and Amazon EMR (Elastic MapReduce). These platforms are designed to handle large volumes of data, provide scalable processing and storage, and support distributed computing. They also often have built-in features for data analysis, data visualization, and machine learning.
