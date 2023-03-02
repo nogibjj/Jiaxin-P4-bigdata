@@ -4,7 +4,9 @@
 Build a functional web microservice or CLI in data engineering or machine learning engineering that uses a large data platform, which include Apache Spark, Google BigQuery, Microsoft Azure HDInsight, and Amazon EMR (Elastic MapReduce). These platforms are designed to handle large volumes of data, provide scalable processing and storage, and support distributed computing. They also often have built-in features for data analysis, data visualization, and machine learning.
 
 ## Functions
-This demo is about building a simple Calculator Microservice based on Rust that can only do four types of operation: addition, substracion, multiplication and division. 
+This project is about building a simple Calculator Microservice based on Rust that can only do four types of operation: addition, substracion, multiplication and division. The Calculator Microservice built on Rust is a great example of how powerful and flexible this programming language can be, particularly for building performant and reliable systems. Although this project is relatively simple, it lays the groundwork for more complex calculations and operations, and can serve as a starting point for building larger, more sophisticated microservices.
+
+One of the key advantages of this microservice is its ability to handle multiple types of operations, including addition, subtraction, multiplication, and division. By providing support for these core mathematical functions, the microservice can be used in a wide variety of applications, from simple arithmetic to more complex financial and scientific calculations.
 
 ## Prepration
 1. Set virtual environment: 
