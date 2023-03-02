@@ -1,6 +1,9 @@
 # Jiaxin-week5-mini-demo
 
 ## Goals
+Build a functional web microservice or CLI in data engineering or machine learning engineering that uses a large data platform, which include Apache Spark, Google BigQuery, Microsoft Azure HDInsight, and Amazon EMR (Elastic MapReduce). These platforms are designed to handle large volumes of data, provide scalable processing and storage, and support distributed computing. They also often have built-in features for data analysis, data visualization, and machine learning.
+
+## Functions
 This demo is about building a simple Calculator Microservice based on Rust that can only do four types of operation: addition, substracion, multiplication and division. 
 
 ## Prepration
@@ -35,7 +38,7 @@ This demo is about building a simple Calculator Microservice based on Rust that 
 1. Type: `cargo run` in terminal directly (my result e.g. is shown below)
 <img width="1114" alt="Screen Shot 2023-02-09 at 10 35 19 PM" src="https://user-images.githubusercontent.com/112274822/217998469-04409de3-14cd-40bf-a5c8-c2df5352b35f.png">
 
-2. There are 4 routes:
+2. Four main routes:
 
 A. type: "/add/a/b" that returns a result after adding a and b
 <img width="705" alt="Screen Shot 2023-02-09 at 10 33 02 PM" src="https://user-images.githubusercontent.com/112274822/217998576-b1244f5c-b705-4405-a561-d94b2c28ca14.png">
