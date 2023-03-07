@@ -1,7 +1,7 @@
 # Project 3: Interact with Big Data in Rust
 
 ## Goals
-Build a functional web microservice or CLI in data engineering or machine learning engineering that uses a large data platform, which include Apache Spark, Google BigQuery, Microsoft Azure HDInsight, and Amazon EMR (Elastic MapReduce). These platforms are designed to handle large volumes of data, provide scalable processing and storage, and support distributed computing. They also often have built-in features for data analysis, data visualization, and machine learning.
+Build a functional web microservice or CLI in data engineering or machine learning engineering that uses a large data platform on AWS, it is designed to handle large volumes of data, provide scalable processing and storage, and support distributed computing. It also has built-in features for data analysis, data visualization, and machine learning.
 
 ## Functions
 This project is about building a simple Calculator Microservice based on Rust that can only do four types of operation: addition, substracion, multiplication and division. The Calculator Microservice built on Rust is a great example of how powerful and flexible this programming language can be, particularly for building performant and reliable systems. Although this project is relatively simple, it lays the groundwork for more complex calculations and operations, and can serve as a starting point for building larger, more sophisticated microservices.
