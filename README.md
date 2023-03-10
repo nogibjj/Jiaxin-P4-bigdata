@@ -1,4 +1,4 @@
-# Project 3: Interact with Big Data in Rust
+# Project 4: Interact with Big Data in Rust
 
 ## Goals
 Build a functional web microservice or CLI in data engineering or machine learning engineering that uses a large data platform on AWS, it is designed to handle large volumes of data, provide scalable processing and storage, and support distributed computing. It also has built-in features for data analysis, data visualization, and machine learning.
